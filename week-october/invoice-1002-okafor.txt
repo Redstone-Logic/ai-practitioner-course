@@ -1,0 +1,10 @@
+INVOICE 1002
+Brightside Landscaping
+Bill to: Chris Okafor
+Date: October 1
+
+Driveway edging and front beds, Sept 9      labor 3 h x $65.00    $195.00
+Fence line cleanup and hedge shaping, Sept 16  labor 3 h x $65.00 $195.00
+
+TOTAL                                                             $390.00
+Payment due within 30 days.
