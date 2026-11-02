@@ -23,6 +23,7 @@ Arrow keys move between slides.
 | `1-lab-*.html` to `15-lab-*.html` | The lab for each module |
 | `P*.html` | Put it to work: practical labs, plus modules and labs for the later topics |
 | `course-sample/`, `course-sample-april/` | Brightside Landscaping office files the labs use |
+| `crew-log/`, `contracts/`, `wiki-may/`, `scheduled/`, `week-october/` | More Brightside files for the later labs and the capstone |
 | `hooks/`, `skills/` | Example hooks and skills for modules 7 and 11 |
 | `AGENTS-template.md`, `commands-card.md` | Templates you copy into your own work |
 | `tramp-one-pager.pdf` | The T.R.A.M.P. prompting framework |
